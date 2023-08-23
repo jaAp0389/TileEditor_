@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkHlSnNz6LmJ7lyB+cRp9LeB+NS7KWyKJXIW5PfoTIysXQ3/ZnoGQpbHX+qp9QJzvSuUSAkErbbQ+BP0y9bzPg==",
+  "success": true,
+  "projectFilePath": "D:\\xTools\\@VisualStudio\\1VSProjects\\MapEditor\\MapEditor\\MapEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
